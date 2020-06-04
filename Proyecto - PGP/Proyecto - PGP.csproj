@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Class222222222.cs" />
     <Compile Include="Contenedor.cs">
       <SubType>Form</SubType>
     </Compile>
