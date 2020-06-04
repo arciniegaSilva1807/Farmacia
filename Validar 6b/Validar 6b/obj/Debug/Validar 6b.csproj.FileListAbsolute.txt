@@ -1,0 +1,9 @@
+f:\escritorio\visual studio 2015\Projects\Validar 6b\Validar 6b\bin\Debug\Validar 6b.exe.config
+f:\escritorio\visual studio 2015\Projects\Validar 6b\Validar 6b\bin\Debug\Validar 6b.exe
+f:\escritorio\visual studio 2015\Projects\Validar 6b\Validar 6b\bin\Debug\Validar 6b.pdb
+f:\escritorio\visual studio 2015\Projects\Validar 6b\Validar 6b\obj\Debug\Validar 6b.csprojResolveAssemblyReference.cache
+f:\escritorio\visual studio 2015\Projects\Validar 6b\Validar 6b\obj\Debug\Validar_6b.Form1.resources
+f:\escritorio\visual studio 2015\Projects\Validar 6b\Validar 6b\obj\Debug\Validar_6b.Properties.Resources.resources
+f:\escritorio\visual studio 2015\Projects\Validar 6b\Validar 6b\obj\Debug\Validar 6b.csproj.GenerateResource.Cache
+f:\escritorio\visual studio 2015\Projects\Validar 6b\Validar 6b\obj\Debug\Validar 6b.exe
+f:\escritorio\visual studio 2015\Projects\Validar 6b\Validar 6b\obj\Debug\Validar 6b.pdb
