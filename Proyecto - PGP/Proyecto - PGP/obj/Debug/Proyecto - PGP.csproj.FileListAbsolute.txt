@@ -1,0 +1,15 @@
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\bin\Debug\Proyecto - PGP.exe.config
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\bin\Debug\Proyecto - PGP.exe
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\bin\Debug\Proyecto - PGP.pdb
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\obj\Debug\Proyecto - PGP.csprojAssemblyReference.cache
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\obj\Debug\Proyecto___PGP.Login.resources
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\obj\Debug\Proyecto___PGP.Properties.Resources.resources
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\obj\Debug\Proyecto - PGP.csproj.GenerateResource.cache
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\obj\Debug\Proyecto - PGP.csproj.CoreCompileInputs.cache
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\obj\Debug\Proyecto - PGP.csproj.CopyComplete
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\obj\Debug\Proyecto - PGP.exe
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\obj\Debug\Proyecto - PGP.pdb
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\obj\Debug\Proyecto___PGP.Contenedor.resources
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\obj\Debug\Proyecto___PGP.Inicio.resources
+C:\Users\ucer_\Desktop\Proyecto - Farmacia\Proyecto - PGP\Proyecto - PGP\obj\Debug\Proyecto___PGP.Recetas.resources
