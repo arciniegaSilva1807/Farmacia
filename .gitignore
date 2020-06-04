@@ -6,3 +6,9 @@
 *.aps
 ipch/
 vs/
+[bB]in 
+[oO]bj 
+*.pdb 
+*.exe 
+*.json
+.vs
