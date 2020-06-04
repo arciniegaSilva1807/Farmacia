@@ -1,0 +1,9 @@
+.vs/
+*.cachefile
+*.sdf
+*.opensdf
+*.ncb
+*.aps
+ipch/
+vs/
+*.vs/

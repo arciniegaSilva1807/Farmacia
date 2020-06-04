@@ -51,6 +51,9 @@ namespace Proyecto___PGP
             Contenedor myContainer = new Contenedor();
             myContainer.Show();
             myContainer.label1.Text = txt_usuario.Text;
+
+            //comentario para prueba
+            1112
         }
     }
 }
