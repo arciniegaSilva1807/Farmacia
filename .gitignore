@@ -6,9 +6,13 @@
 *.aps
 ipch/
 vs/
+<<<<<<< HEAD
 [bB]in 
 [oO]bj 
 *.pdb 
 *.exe 
 *.json
 .vs
+=======
+*.vs/
+>>>>>>> b57250771df85e6a601ff4d881d0a9666c1e5dc2
