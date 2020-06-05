@@ -60,16 +60,28 @@
     <Compile Include="Contenedor.Designer.cs">
       <DependentUpon>Contenedor.cs</DependentUpon>
     </Compile>
+    <Compile Include="Clientes\DatosGenerales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\DatosGenerales.designer.cs">
+      <DependentUpon>DatosGenerales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\Domicilio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\Domicilio.designer.cs">
+      <DependentUpon>Domicilio.cs</DependentUpon>
+    </Compile>
     <Compile Include="Inicio.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Inicio.Designer.cs">
       <DependentUpon>Inicio.cs</DependentUpon>
     </Compile>
-    <Compile Include="Recetas.cs">
+    <Compile Include="Clientes\Recetas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Recetas.Designer.cs">
+    <Compile Include="Clientes\Recetas.Designer.cs">
       <DependentUpon>Recetas.cs</DependentUpon>
     </Compile>
     <Compile Include="Login.cs">
@@ -83,10 +95,16 @@
     <EmbeddedResource Include="Contenedor.resx">
       <DependentUpon>Contenedor.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\DatosGenerales.resx">
+      <DependentUpon>DatosGenerales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\Domicilio.resx">
+      <DependentUpon>Domicilio.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Inicio.resx">
       <DependentUpon>Inicio.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Recetas.resx">
+    <EmbeddedResource Include="Clientes\Recetas.resx">
       <DependentUpon>Recetas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
